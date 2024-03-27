@@ -2,6 +2,8 @@ import Navbar from "../Navbar/Navbar";
 
 
 
+
+
 const Banner = () => {
     return (
         <div>
